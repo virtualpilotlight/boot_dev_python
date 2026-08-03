@@ -1,0 +1,11 @@
+.bash_history
+        .bash_logout
+        .bashrc
+        .cache/
+        .gitconfig
+        .profile
+        .python_history
+        .ssh/
+        .sudo_as_admin_successful
+main_test.py
+__pycache__ 
